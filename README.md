@@ -16,3 +16,5 @@ Using this data, I want to answer the following:
 -    Economic Correlation: Does the price of raw materials (like Runite Ore) show a statistically significant correlation with the price of their finished products (like Rune Bars) over a 24-hour period?
 
 -    Optimal Timing: At what time of day (UTC) is trading volume highest for specific categories of items, such as "Consumables" vs. "Equipment"?
+
+[runescape api](https://runescape.wiki/w/Application_programming_interface)
